@@ -1,0 +1,8 @@
+[
+  { "key": "alt+↑", "command": "editor.action.moveLinesUpAction" },
+  { "key": "alt+↓", "command": "editor.action.moveLinesDownAction" },
+  { "key": "ctrl+d", "command": "editor.action.copyLinesDownAction" },
+  { "key": "ctrl+shift+e", "command": "workbench.view.explorer" },
+  { "key": "ctrl+shift+g", "command": "workbench.view.scm" },
+  { "key": "ctrl+shift+x", "command": "workbench.view.extensions" }
+]
